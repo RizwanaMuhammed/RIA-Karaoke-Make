@@ -1,14 +1,17 @@
+# RIA Karaoke Maker
+
+Transform songs into beautifully synchronized karaoke videos with customizable lyrics and visual effects.
 
 ## Application Screenshots
 
-Here are some screenshots of RIA Karaoke Maker.
+### 1. Home Page
+![Home Page](home-page.png.png)
 
-![Application Screenshot 1](<Screenshot (330).png>)
+### 2. Karaoke Editor
+![Karaoke Editor](karaoke-editor.png.png)
 
-![Application Screenshot 2](<Screenshot (331).png>)
+### 3. Lyric Customization
+![Lyric Customization](lyric-customization.png.png)
 
-![Application Screenshot 3](<Screenshot (332).png>)
-
-![Application Screenshot 4](<Screenshot (333).png>)
-# RIA-Karaoke-Make
-Transform songs into beautifully synchronized karaoke videos with customizable lyrics and visual effects.
+### 4. Video Preview
+![Video Preview](video-preview.png.png)
